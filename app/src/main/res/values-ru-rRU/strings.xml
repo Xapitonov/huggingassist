@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">huggingAssist</string>
+    <string name="error_copy">Пожалуйста, выберите и скопируйте текст вручную</string>
+    <!-- StarDialog -->
+    <string name="dialog_OK_button">ОК</string>
+    <string name="dialog_NO_button">Нет</string>
+    <string name="dialog_Later_button">Может быть позже</string>
+    <string name="dialog_StarOnGitHub">Вам нравится это приложение? Пожалуйста, поставьте ему звезду на GitHub или угостите разработчика кофе через PayPal.</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="url_copied">URL скопирован</string>
+</resources>
